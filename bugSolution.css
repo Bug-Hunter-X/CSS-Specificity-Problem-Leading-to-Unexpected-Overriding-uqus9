@@ -1,0 +1,1 @@
+Several solutions exist to address this issue.  One is to refactor the selectors to improve specificity: use more precise selectors or rearrange the order of rules. Alternatively, and less preferable, the !important flag could be used on the `.class1` rule to override the more specific selector. However, overuse of !important should be avoided as it can hinder maintainability.

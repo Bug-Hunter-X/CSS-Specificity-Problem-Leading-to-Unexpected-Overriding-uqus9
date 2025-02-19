@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS issue related to selector specificity.  The `bug.css` file shows the problematic code, while `bugSolution.css` provides a solution using more appropriate selectors or the `!important` flag (used sparingly).  Understanding CSS specificity is crucial for avoiding unexpected behavior and maintaining clean, maintainable stylesheets.
